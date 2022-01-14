@@ -1,7 +1,9 @@
 import { checkTypeVariabel, setEmpy } from "../../helpers";
+import GET_LANGUAGES from "../../lang";
 import TYPE_REDUCER from "./type";
 
 const initialState = {
+  lang: GET_LANGUAGES.EN,
   isLogin: false,
   user: {},
 };
