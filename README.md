@@ -8,9 +8,9 @@ Description Here ...
 
 # Author
 
-Name: <br\>
-Company Name: <br\>
-Link Profile: <br\>
+Name: \
+Company Name: \
+Link Profile:
 
 # How To Run
 
@@ -41,36 +41,36 @@ Link Profile: <br\>
 
 # Folder Structure
 
-my-app <br\>
-├── build <br\>
-├── node_modules <br\>
-├── public <br\>
-│ ├── favicon.ico <br\>
-│ ├── index.html <br\>
-│ └── manifest.json <br\>
-├── src <br\>
-│ ├── apis <br\>
-│ ├── assets <br\>
-│ │ ├── fonts <br\>
-│ │ ├── styles <br\>
-│ │ └── images <br\>
-│ ├── components <br\>
-│ ├── constants <br\>
-│ ├── containers <br\>
-│ │ ├── pages <br\>
-│ │ └── template <br\>
-│ ├── helpers <br\>
-│ ├── lang <br\>
-│ ├── redux <br\>
-│ │ ├── actions <br\>
-│ │ ├── reducer <br\>
-│ │ ├── store <br\>
-│ │ └── index.js <br\>
-│ ├── utils <br\>
-│ ├── App.jsx <br\>
-│ └── index.js <br\>
-├── .babelrc <br\>
-├── .gitignore <br\>
-├── package.json <br\>
-├── webpack.config.js <br\>
-└── README.md <br\>
+my-app\
+├── build\
+├── node_modules\
+├── public\
+│ ├── favicon.ico\
+│ ├── index.html\
+│ └── manifest.json\
+├── src\
+│ ├── apis\
+│ ├── assets\
+│ │ ├── fonts\
+│ │ ├── styles\
+│ │ └── images\
+│ ├── components\
+│ ├── constants\
+│ ├── containers\
+│ │ ├── pages\
+│ │ └── template\
+│ ├── helpers\
+│ ├── lang\
+│ ├── redux\
+│ │ ├── actions\
+│ │ ├── reducer\
+│ │ ├── store\
+│ │ └── index.js\
+│ ├── utils\
+│ ├── App.jsx\
+│ └── index.js\
+├── .babelrc\
+├── .gitignore\
+├── package.json\
+├── webpack.config.js\
+└── README.md\
