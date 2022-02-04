@@ -17,3 +17,5 @@ const buildClass = (args) => {
   });
   return className;
 };
+
+export { buildClass };
